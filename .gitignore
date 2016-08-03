@@ -79,3 +79,23 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+Assets/Demigiant/
+Assets/Demigiant/DOTween/
+Assets/images/
+Assets/JSON/
+Assets/Puppet2D/
+Assets/_MK/
+Assets/WindowMode/
+Assets/prefab/
+Assets/audios/
+Assets/animation/
+Assets/StreamingAssets/
+ProjectSettings/
+
+userFiles/
+*.order
+*.png
+*.jpg
+*.meta
